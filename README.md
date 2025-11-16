@@ -11,7 +11,7 @@ This project builds a **fashion recommendation system** by combining:
 **LLM fine-tuning dataset**: `neuralwork/fashion-style-instruct` (Hugging Face)  
 **RAG retrieval dataset**: H&M Personalized Fashion Recommendations dataset  
 (https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=articles.csv)  
-**Demo**: `floraliuya/recft_unsloth-Meta-Llama-3.1-8B-2`
+**Demo**: `floraliuya/recft_unsloth-Meta-Llama-3.1-8B-2` (Hugging Face)
 
 ---
 
