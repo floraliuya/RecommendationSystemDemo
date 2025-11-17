@@ -127,8 +127,6 @@ RAG combines:
 
 - 加入 **使用者歷史行為**（購買紀錄 / 點擊紀錄）做個人化 re-ranking  
 - 加入 **多模態資訊**：圖片 embedding + 文字描述一起放入 FAISS  
-- 使用 **評估指標**（如 CTR、轉換率、NDCG）來量化推薦效益  
-- 加入 A/B test 或 offline evaluation pipeline
 
 ---
 
